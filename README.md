@@ -4,7 +4,7 @@ EliteTask is a robust, command-line interface (CLI) application built in Python 
 
 # 🎥 Video Demonstration & Defense
 Click the link below to watch the technical walk-through, architectural defense, and project reflection:
-👉 "[Watch the Final Project Defense on YouTube]((https://youtu.be/SR6pBjNKGB0))"
+👉 "[Watch the Final Project Defense on YouTube](https://youtu.be/SR6pBjNKGB0)"
 
 # ✨ Features
  "Dynamic Multi-Level Sorting:" Tasks are automatically ordered using a multi-level algorithm (Priority level 1-5 first, followed by an alphabetical sort by title if priorities match).
